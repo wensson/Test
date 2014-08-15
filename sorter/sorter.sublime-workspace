@@ -27,7 +27,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 219.0,
+		"height": 354.0,
 		"selected_items":
 		[
 			[
@@ -60,12 +60,19 @@
 	},
 	"file_history":
 	[
+		"/D/Documents/GitHub/Test/sorter/sorter/algorithms/qsort/qsort.go",
+		"/D/Documents/GitHub/Test/sorter/src/algorithms/bubblesort/bubblersort.go",
+		"/D/Documents/GitHub/Test/sorter/src/algorithms/bubblesort/bubblesort_test.go",
+		"/D/Documents/GitHub/Test/sorter/src/algorithms/qsort/qsort_test.go",
+		"/D/Documents/GitHub/Test/sorter/src/algorithms/qsort/qsort.go",
+		"/D/Documents/GitHub/Test/sorter/src/sorter.go",
+		"/D/Documents/GitHub/Test/sorter/sorter.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
 		"/J/GoLang/workspace/sorter/src/algorithms/sorter.go",
 		"/J/GoLang/workspace/sorter/src/algorithms/bubblesort/bubblersort.go",
-		"/D/Documents/GitHub/Test/sorter/src/sorter.go",
-		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/GoSublime-Go.sublime-settings",
 		"/J/GoLang/workspace/rand_generate/src/main.go",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
@@ -141,6 +148,22 @@
 		]
 	},
 	"menu_visible": true,
+	"output.9o://D:\\Documents\\GitHub\\Test\\sorter\\sorter\\algorithms\\qsort":
+	{
+		"height": 201.0
+	},
+	"output.9o://D:\\Documents\\GitHub\\Test\\sorter\\src":
+	{
+		"height": 346.0
+	},
+	"output.9o://D:\\Documents\\GitHub\\Test\\sorter\\src\\algorithms\\bubblesort":
+	{
+		"height": 215.0
+	},
+	"output.9o://D:\\Documents\\GitHub\\Test\\sorter\\src\\algorithms\\qsort":
+	{
+		"height": 207.0
+	},
 	"output.9o://J:\\GoLang\\workspace\\helloworld\\src":
 	{
 		"height": 112.0
@@ -148,6 +171,10 @@
 	"output.9o://J:\\GoLang\\workspace\\sorter\\src\\algorithms":
 	{
 		"height": 184.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
 	},
 	"output.MarGo-output":
 	{
@@ -178,6 +205,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 248.0,
 	"status_bar_visible": true
 }
